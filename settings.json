@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ThanhphoVIPPRO.aternos.me:17395",
-    "port": 17395,
+    "port": 17395 ,
     "version": "",
     "try-creative": false
   },
